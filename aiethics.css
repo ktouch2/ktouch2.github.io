@@ -219,6 +219,10 @@ ul.navbar-nav {
      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add a subtle shadow */
 	 text-align: center;
 }
+.text-box li {
+    text-align: justify; /* Fully justify list items */
+}
+
 .aboutustext, .contactus {
         color: white; /* Make the text readable against the white background */
         font-size: 20px; /* Adjust text size */
