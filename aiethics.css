@@ -1239,7 +1239,9 @@ svg {
 }
 
 table {
-  border-collapse: collapse;
+  margin: 20px auto; /* centers table horizontally */
+  border-collapse: collapse; /* optional: cleaner borders */
+  width: 80%; /* optional: control table width */
 }
 
 caption {
