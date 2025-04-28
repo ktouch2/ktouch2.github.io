@@ -69,9 +69,6 @@ ul.navbar-nav {
   overflow: hidden;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
-
-.body {
-	background-color:powderblue;
 	
 /* Styling for the iframe */
 .video-frame {
@@ -1097,7 +1094,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: blue;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
